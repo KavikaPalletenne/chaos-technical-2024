@@ -30,7 +30,7 @@ Make sure to include foreign keys for the relationships that will `CASCADE` upon
 ![Database Schema](db_schema.png)
 
 **Answer box:**
-```postgresql
+```sql
 CREATE TABLE forms (
     --     Add columns here
 );
@@ -55,6 +55,6 @@ Using the above schema, write a (Postgres) SQL `SELECT` query to return all ques
 ```
 
 **Answer box:**
-```postgresql
+```sql
 -- Write query here
 ```
